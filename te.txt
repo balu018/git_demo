@@ -1,4 +1,8 @@
 hijbj
 bsdjbjkdb
 smd,kklsm
+<<<<<<< HEAD
 jhdjkfhkd
+=======
+jiosdjfioj
+>>>>>>> additional
